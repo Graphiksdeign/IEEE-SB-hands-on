@@ -1,0 +1,45 @@
+.pivot_menu .pivot_button, .pivot_menu .pivot_title {
+    color: #fcfcfc;
+    width: 100vw;
+}
+.pivot_menu{
+    background-color: cornflowerblue;
+    width: 100vw;
+    z-index: 10;
+}
+.cover {
+    background-image: url(./bg.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.bottom_left{
+    position: relative;
+    top: 50vh;
+    left: 8vh;
+    color: rgb(39, 39, 39);
+}
+.vert_space {
+    padding-top: 12vh;
+    padding-bottom: 12vh;
+}
+.content_padding {
+    padding: 20px;
+}
+.ft_color{
+    background-color: cornflowerblue;
+    color: #fcfcfc;
+    font-size: medium;
+}
+.footer{
+    width: 100vw;
+    background-color: cornflowerblue;
+}
+.contact_options{
+    font-size: 25px;
+    color: #fcfcfc;
+    padding: 8px 16px;
+}
+.social_icon{
+    height: 60px;
+}
